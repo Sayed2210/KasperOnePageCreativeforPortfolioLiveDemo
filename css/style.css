@@ -973,6 +973,7 @@ q::before {
 .contact {
     padding-top: var(--section-padding);
     padding-bottom: var(--secondary-color);
+    margin-bottom: 20px;
 }
 .contact .content {
     display: flex;
