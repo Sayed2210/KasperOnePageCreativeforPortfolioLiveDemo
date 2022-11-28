@@ -402,6 +402,11 @@ html {
     bottom: -200px;
     position: relative;
 }
+@media (max-width: 767px) {
+  .design .image  img {
+    display: none;
+  }
+}
 .design .text {
     color: white;
     background-color: var(--transparent-color);
